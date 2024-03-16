@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+
+.rubocop.yml
+
+.ruby-version
+.ruby-gemset
+
+*.log
